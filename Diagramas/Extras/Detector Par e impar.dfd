@@ -1,0 +1,96 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+22
+'escriba tres numeros'
+5
+1
+5
+a,b,c
+7
+0
+1
+43
+a mod 2 = 0 and b mod 2 = 0 and c mod 2 = 0
+7
+0
+1
+28
+a mod 2 = 0 and b mod 2 = 0 
+7
+0
+1
+27
+a mod 2 = 0 and c mod 2 = 0
+7
+0
+1
+27
+b mod 2 = 0 and c mod 2 = 0
+7
+0
+1
+11
+c mod 2 = 0
+7
+0
+1
+11
+a mod 2 = 0
+7
+0
+1
+11
+b mod 2 = 0
+4
+1
+19
+'a,b,c son impares'
+13
+4
+1
+28
+'a,c son impares y b es par'
+13
+13
+4
+1
+28
+'a es par y b,c son impares'
+13
+13
+4
+1
+28
+'c es par y a,b son impares'
+13
+13
+4
+1
+28
+'b,c son pares y a es impar'
+13
+13
+4
+1
+28
+'a,c son pares y b es impar'
+13
+13
+4
+1
+28
+'a,b son pares y c es impar'
+13
+13
+4
+1
+17
+'a,b,c son pares'
+13
+1

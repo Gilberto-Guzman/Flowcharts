@@ -1,0 +1,140 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+23
+'introduzca el importe'
+5
+1
+1
+a
+7
+0
+1
+5
+a<500
+7
+0
+1
+30
+a > 500 or a = 500 or a < 1000
+7
+0
+1
+20
+a = 1000 or a > 1000
+13
+6
+3
+9
+descuento
+8
+a * 0.20
+2
+ad
+13
+a - descuento
+3
+iva
+9
+ad * 0.16
+6
+1
+1
+t
+8
+ad + iva
+7
+0
+1
+8
+t > 2000
+4
+1
+16
+'el total es', t
+13
+6
+2
+9
+resultado
+8
+t * 0.05
+5
+final
+13
+t - resultado
+4
+1
+20
+'el total es', final
+13
+13
+13
+6
+3
+9
+descuento
+8
+a * 0.10
+2
+ad
+13
+a - descuento
+3
+iva
+9
+ad * 0.16
+6
+1
+1
+t
+8
+ad + iva
+7
+0
+1
+8
+t > 800 
+4
+1
+16
+'el total es', t
+13
+6
+2
+9
+resultado
+8
+t * 0.05
+5
+final
+13
+t - resultado
+4
+1
+20
+'el total es', final
+13
+13
+13
+6
+2
+3
+iva
+8
+a * 0.16
+1
+t
+7
+a + iva
+4
+1
+16
+'el total es', t
+13
+1
